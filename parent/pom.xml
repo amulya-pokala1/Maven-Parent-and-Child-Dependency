@@ -40,8 +40,8 @@
   </build>
   <modules>
     <module>jdemo</module>
-    <module>webapp</module>
+    
     <module>Webapp</module>
-    <module>DemoServlet</module>
+   
   </modules>
 </project>
